@@ -1,0 +1,7 @@
+# Node Modules
+node_modules/
+
+# WA-Verify Specific Ignores
+profileData/
+
+verified.txt
