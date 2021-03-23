@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "login": "node src/login",
-    "checkList": "node src/checkFromList",
-    "server": "node src/server"
+    "checkList": "node src/checkFromList"
   },
   "keywords": [],
   "author": "Miticous",
