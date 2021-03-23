@@ -1,5 +1,4 @@
 # wa-users-check
--
 
 ### What
 
@@ -29,4 +28,4 @@ Example (yarn checkList C://Users/currentUser/Desktop/numbers.txt C://Users/curr
 
 ***Note*** This modified version uses Brazil prefix(55) as default.
 
-***Note*** Special thanks for 
+***Note*** Special thanks for [AbhishekBiswal](https://github.com/AbhishekBiswal) to release this repositiory faster on time that I used [him project](https://github.com/AbhishekBiswal/whatsapp-verify) as starter module.
